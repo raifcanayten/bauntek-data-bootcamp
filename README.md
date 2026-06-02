@@ -1,2 +1,3 @@
-# bauntek-data-bootcamp
-Training materials from bauntek-data-bootcamp | June 1-5, 2026
+# Bauntek Data Bootcamp | June 1-5, 2026
+
+Training materials for **bauntek-data-bootcamp**.
